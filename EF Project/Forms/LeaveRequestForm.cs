@@ -49,7 +49,7 @@ namespace EF_Project.Forms
                 LeaveStartTime = requestStartTime_LRF.Value,
                 LeaveEndTime = requestEndTime_LRF.Value,
                 LeaveReason = requestReason_LRF.Text,
-                employeeId = employee_id
+                EmployeeId = employee_id
             };
 
             leaveRequestServices.Add(leaveRequest);
@@ -102,7 +102,7 @@ namespace EF_Project.Forms
         private void ShowLeaveRequests()
         {
             dgv_ShowRequests_LRF.DataSource = leaveRequestServices.ShowByEmployeeId(employee_id);
-            dgv_ShowRequests_LRF.Columns["employeeId"].Visible = false;
+            dgv_ShowRequests_LRF.Columns["EmployeeId"].Visible = false;
             dgv_ShowRequests_LRF.Columns["Employee"].Visible = false;
             btn_cancelRequest_LRF.Visible = false;
             btn_ShowRequests_LRF.Visible = true;

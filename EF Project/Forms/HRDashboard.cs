@@ -35,5 +35,12 @@ namespace EF_Project.Forms
             this.Hide();
             showRequests.Show();
         }
+
+        private void btn_showreport_HRF_Click(object sender, EventArgs e)
+        {
+            ShowReports showReports = new ShowReports();
+            showReports.Show();
+            this.Hide();
+        }
     }
 }

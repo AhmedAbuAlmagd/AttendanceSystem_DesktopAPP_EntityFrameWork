@@ -60,5 +60,20 @@ namespace EmployeeAttendanceSystem.BusinessLogic.Services
             existing.IsEarlyDeparture = attendance.IsEarlyDeparture;
             context.SaveChanges();
         }
+        // reports form
+        public List<Attendance> GetDailyAttendance(DateTime date)
+        {
+            return context.Attendances.Where(a => a.checkInTime.HasValue && a.checkInTime.Value.Date ==date.Date)
+                .Include(a => a.Employee).ToList();
+                
+        }
+        public List<Attendance> GetMonthlyAttendance(int year ,int month , int empId)
+        {
+            return context.Attendances.Where(a=> a.checkInTime.HasValue 
+            && a.checkInTime.Value.Year == year &&
+            a.checkInTime.Value.Month == month &&
+            a.Employee_id == empId)
+                .Include(a=> a.Employee).ToList();
+        }
     }
 }

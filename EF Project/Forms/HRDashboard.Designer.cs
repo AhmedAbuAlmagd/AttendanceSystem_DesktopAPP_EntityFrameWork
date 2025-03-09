@@ -82,6 +82,7 @@
             btn_showreport_HRF.TabIndex = 4;
             btn_showreport_HRF.Text = "Show Reports";
             btn_showreport_HRF.UseVisualStyleBackColor = true;
+            btn_showreport_HRF.Click += btn_showreport_HRF_Click;
             // 
             // HRDashboard
             // 
