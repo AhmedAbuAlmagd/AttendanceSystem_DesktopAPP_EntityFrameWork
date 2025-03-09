@@ -9,13 +9,13 @@ namespace EmployeeAttendanceSystem.BusinessLogic.Services
         AttendanceContext context;
         public AttendanceServices(AttendanceContext context)
         {
-           this.context = context;
+            this.context = context;
         }
         public List<Attendance> getAll()
         {
             return context.Attendances.ToList();
         }
-        public Attendance GetByempIdAndCheckIn(int employee_id , DateTime date)
+        public Attendance GetByempIdAndCheckIn(int employee_id, DateTime date)
         {
             return context.Attendances.FirstOrDefault(x => x.Employee_id == employee_id && x.checkInTime.Value.Date == date);
         }
@@ -53,12 +53,27 @@ namespace EmployeeAttendanceSystem.BusinessLogic.Services
             context.SaveChanges();
         }
 
-        public void checkOut(int employee_id , DateTime date ,Attendance attendance)
+        public void checkOut(int employee_id, DateTime date, Attendance attendance)
         {
             Attendance existing = GetByempIdAndCheckIn(employee_id, date.Date);
             existing.checkOutTime = attendance.checkOutTime;
             existing.IsEarlyDeparture = attendance.IsEarlyDeparture;
             context.SaveChanges();
+        }
+        // reports form
+        public List<Attendance> GetDailyAttendance(DateTime date)
+        {
+            return context.Attendances.Where(a => a.checkInTime.HasValue && a.checkInTime.Value.Date == date.Date)
+                .Include(a => a.Employee).ToList();
+
+        }
+        public List<Attendance> GetMonthlyAttendance(int year, int month, int empId)
+        {
+            return context.Attendances.Where(a => a.checkInTime.HasValue
+            && a.checkInTime.Value.Year == year &&
+            a.checkInTime.Value.Month == month &&
+            a.Employee_id == empId)
+                .Include(a => a.Employee).ToList();
         }
     }
 }
