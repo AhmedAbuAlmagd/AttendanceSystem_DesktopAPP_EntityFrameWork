@@ -60,6 +60,7 @@
             btn_showbydate_EAF.TabIndex = 7;
             btn_showbydate_EAF.Text = "Show By Date";
             btn_showbydate_EAF.UseVisualStyleBackColor = true;
+            btn_showbydate_EAF.Click += btn_showbydate_EAF_Click;
             // 
             // btn_showbyuser_EAF
             // 
@@ -69,6 +70,7 @@
             btn_showbyuser_EAF.TabIndex = 6;
             btn_showbyuser_EAF.Text = "Show By User";
             btn_showbyuser_EAF.UseVisualStyleBackColor = true;
+            btn_showbyuser_EAF.Click += btn_showbyuser_EAF_Click;
             // 
             // dgv_empattend_EAF
             // 

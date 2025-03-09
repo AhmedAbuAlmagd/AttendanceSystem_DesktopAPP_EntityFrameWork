@@ -43,6 +43,7 @@
             dgv_hrattend_HRAF.RowHeadersWidth = 51;
             dgv_hrattend_HRAF.Size = new Size(804, 289);
             dgv_hrattend_HRAF.TabIndex = 0;
+            //dgv_hrattend_HRAF.CellContentClick += dgv_hrattend_HRAF_CellContentClick;
             // 
             // btn_getattendlogs_HRAF
             // 

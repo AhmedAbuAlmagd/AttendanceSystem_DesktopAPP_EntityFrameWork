@@ -35,12 +35,14 @@ namespace EF_Project.Forms
 
         private void btn_showbydate_HRAF_Click(object sender, EventArgs e)
         {
-           if(cb_showbydate_HRAF != null)
+            if (cb_showbydate_HRAF != null)
             {
                 DateTime selectedDate = (DateTime)cb_showbydate_HRAF.SelectedItem;
                 var filteredLogs = attendanceServices.GetAttendanceByEmpIdAndDate(currentHRId, selectedDate);
-                dgv_hrattend_HRAF.DataSource= filteredLogs;
+                dgv_hrattend_HRAF.DataSource = filteredLogs;
             }
         }
+
+       
     }
 }
