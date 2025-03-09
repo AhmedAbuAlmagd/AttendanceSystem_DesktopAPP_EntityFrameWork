@@ -43,7 +43,9 @@ namespace EmployeeAttendanceSystem.BusinessLogic.Services
         //in case hr
         public List<Attendance> GetAttendanceByEmpIdAndDate(int empId, DateTime date)
         {
-            return context.Attendances.Where(e => e.Employee_id == empId && e.checkInTime.HasValue && e.checkInTime.Value.Date == date)
+            return context.Attendances.Where(e => e.Employee_id == empId 
+            && e.checkInTime.HasValue && 
+            e.checkInTime.Value.Date == date)
                 .Include(e => e.Employee)
                 .ToList();
         }

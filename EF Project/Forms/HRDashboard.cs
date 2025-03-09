@@ -12,6 +12,8 @@ namespace EF_Project.Forms
 {
     public partial class HRDashboard : Form
     {
+        private int hrID;
+
         public HRDashboard()
         {
             InitializeComponent();
@@ -19,7 +21,9 @@ namespace EF_Project.Forms
 
         private void btn_myattend_HRF_Click(object sender, EventArgs e)
         {
-
+            HRAttendance hRAttendance = new HRAttendance( hrID);
+            hRAttendance.Show();
+            this.Hide();
         }
 
         private void btn_empmanage_HRF_Click(object sender, EventArgs e)

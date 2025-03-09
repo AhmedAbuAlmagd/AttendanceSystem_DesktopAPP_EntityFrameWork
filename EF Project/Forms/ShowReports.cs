@@ -60,6 +60,7 @@ namespace EF_Project.Forms
 
         private void btn_showmonth_SRF_Click(object sender, EventArgs e)
         {
+
             if(cb_showemp_SRF == null  )
             {
                 MessageBox.Show("Please Choose One Employee", "warning",MessageBoxButtons.OK, MessageBoxIcon.Warning);
