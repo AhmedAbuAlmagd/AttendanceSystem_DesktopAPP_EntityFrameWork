@@ -10,9 +10,15 @@ namespace EmployeeAttendanceSystem.DataAccess.Models
 {
     public enum LeaverequestStatus
     {
-        approaved ,
-        rejected , 
-        pending 
+        Approved ,
+        Rejected , 
+        Pending 
+    }
+    public enum LeaveType
+    {
+        Sick_Leave,
+        Vacation_Leave,
+        Unpaid_Leave
     }
     public  class LeaveRequest
     {
@@ -23,8 +29,9 @@ namespace EmployeeAttendanceSystem.DataAccess.Models
         public DateTime LeaveEndTime { get; set; }
         [Column(TypeName = "nvarchar(50)")]
         public LeaverequestStatus requestStatus { get; set; } = LeaverequestStatus.pending;
+        public LeaveType requestType { get; set; }
         [ForeignKey("Employee")]
-        public int employeeId { get; set; }
+        public int EmployeeId { get; set; }
         public virtual Employee Employee { get; set; }
         
     }

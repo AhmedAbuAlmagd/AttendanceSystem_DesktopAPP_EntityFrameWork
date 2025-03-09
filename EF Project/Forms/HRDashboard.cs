@@ -28,5 +28,12 @@ namespace EF_Project.Forms
             this.Hide();
             empmanage.Show();
         }
+
+        private void btn_showrequest_HRF_Click(object sender, EventArgs e)
+        {
+            ShowRequests showRequests = new ShowRequests();
+            this.Hide();
+            showRequests.Show();
+        }
     }
 }

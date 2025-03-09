@@ -72,6 +72,7 @@
             btn_showrequest_HRF.TabIndex = 3;
             btn_showrequest_HRF.Text = "Show Requests";
             btn_showrequest_HRF.UseVisualStyleBackColor = true;
+            btn_showrequest_HRF.Click += btn_showrequest_HRF_Click;
             // 
             // btn_showreport_HRF
             // 
