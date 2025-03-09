@@ -63,6 +63,7 @@ namespace EmployeeAttendanceSystem.BusinessLogic.Services
             context.SaveChanges();
         }
         // reports form
+
         public List<Attendance> GetDailyAttendance(DateTime date)
         {
             return context.Attendances.Where(a => a.checkInTime.HasValue && a.checkInTime.Value.Date ==date.Date)

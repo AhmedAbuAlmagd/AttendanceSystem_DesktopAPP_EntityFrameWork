@@ -24,6 +24,7 @@ namespace EF_Project.Forms
             cb_showemp_SRF.DataSource = context.Employees.Select(e => e.name).ToList();
             int currentYear = DateTime.Now.Year;
             int currentMonth = DateTime.Now.Month;
+
             for (int i = 0; i < 2020; i++)
             {
                 cb_year_SRF.Items.Add(i);

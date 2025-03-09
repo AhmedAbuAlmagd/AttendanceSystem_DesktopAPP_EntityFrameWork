@@ -28,6 +28,7 @@ namespace EF_Project.Forms
 
         private void btn_empmanage_HRF_Click(object sender, EventArgs e)
         {
+
             EmployeeManagment empmanage = new EmployeeManagment();
             this.Hide();
             empmanage.Show();
@@ -35,6 +36,7 @@ namespace EF_Project.Forms
 
         private void btn_showrequest_HRF_Click(object sender, EventArgs e)
         {
+
             ShowRequests showRequests = new ShowRequests();
             this.Hide();
             showRequests.Show();

@@ -30,6 +30,7 @@ namespace EmployeeAttendanceSystem.DataAccess.Models
         [Column(TypeName = "nvarchar(50)")]
         public LeaverequestStatus requestStatus { get; set; } = LeaverequestStatus.Pending;
         public LeaveType requestType { get; set; }
+
         [ForeignKey("Employee")]
         public int EmployeeId { get; set; }
         public virtual Employee Employee { get; set; }
