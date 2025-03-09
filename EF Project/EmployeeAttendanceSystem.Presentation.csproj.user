@@ -34,8 +34,5 @@
     <Compile Update="Forms\UsersForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\ShowRequests_empFrom.cs">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
 </Project>
