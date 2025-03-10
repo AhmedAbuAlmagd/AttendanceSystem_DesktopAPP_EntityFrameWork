@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NAwPPFoV/CU=",
+  "dgSpecHash": "cbu3gBBW5zo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\EmployeeAttendanceSystem.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\EmployeeAttendanceSystem.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SoftLaptop\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\SoftLaptop\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

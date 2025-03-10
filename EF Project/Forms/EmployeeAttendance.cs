@@ -25,7 +25,7 @@ namespace EF_Project.Forms
         }
         private void LoadEmployees()
         {
-            var employees = attendanceServices.getAll();
+            var employees = attendanceServices.GetAll();
             cb_showbyuser_EAF.DataSource = employees;
             cb_showbyuser_EAF.DisplayMember = "name";
             cb_showbyuser_EAF.ValueMember = "id";
@@ -51,7 +51,7 @@ namespace EF_Project.Forms
         {
             if (cb_showbydate_EAF.SelectedItem != null)
             {
-                DateTime selectedDate = (DateTime)cb_showbydate_EAF.SelectedItem;
+                DateOnly selectedDate = (DateOnly)cb_showbydate_EAF.SelectedItem;
                 var attendanceList = attendanceServices.GetAttendanceByDate(selectedDate);
                 dgv_empattend_EAF.DataSource = attendanceList;
             }

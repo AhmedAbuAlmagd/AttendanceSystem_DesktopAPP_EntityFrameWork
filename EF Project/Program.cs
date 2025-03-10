@@ -13,7 +13,7 @@ namespace EF_Project
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new EmployeeAttendance());
+            Application.Run(new LoginForm());
         }
     }
 }

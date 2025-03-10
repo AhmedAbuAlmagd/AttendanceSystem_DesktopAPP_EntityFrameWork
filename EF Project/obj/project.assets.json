@@ -4630,11 +4630,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\EmployeeAttendanceSystem.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\EmployeeAttendanceSystem.Presentation.csproj",
       "projectName": "EmployeeAttendanceSystem.Presentation",
-      "projectPath": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\EmployeeAttendanceSystem.Presentation.csproj",
+      "projectPath": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\EmployeeAttendanceSystem.Presentation.csproj",
       "packagesPath": "C:\\Users\\SoftLaptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\obj\\",
+      "outputPath": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4655,11 +4655,11 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj"
+            "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj"
             },
-            "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj"
+            "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj"
             }
           }
         }

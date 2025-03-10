@@ -2,6 +2,7 @@
 using EmployeeAttendanceSystem.DataAccess.Models;
 using EmployeeAttendanceSystem.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace EmployeeAttendanceSystem.DataAccess.Context
 {
@@ -17,8 +18,16 @@ namespace EmployeeAttendanceSystem.DataAccess.Context
         {
             modelBuilder.Entity<Attendance>()
                 .Property(a => a.WorkingHours)
-                .HasComputedColumnSql("ISNULL(DATEDIFF(second, [checkInTime], [checkOutTime]), 0)", stored: true);
+                .HasComputedColumnSql("DATEDIFF(SECOND, CAST(checkInTime AS DATETIME), CAST(checkOutTime AS DATETIME)) / 3600", stored: true);
+
+            modelBuilder.Entity<Attendance>()
+          .Property(a => a.IsLate)
+          .HasConversion(
+              v => v ? "Yes" : "No", // Convert bool to string
+              v => v == "Yes" // Convert string to bool
+          );
         }
+
         public virtual DbSet<Department> Departments { get; set; }
         public virtual DbSet<Employee> Employees { get; set; }
         public virtual DbSet<Attendance> Attendances { get; set; }

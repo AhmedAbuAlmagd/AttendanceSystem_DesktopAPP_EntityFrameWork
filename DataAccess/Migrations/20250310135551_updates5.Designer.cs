@@ -4,6 +4,7 @@ using EmployeeAttendanceSystem.DataAccess.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EmployeeAttendanceSystem.DataAccess.Migrations
 {
     [DbContext(typeof(AttendanceContext))]
-    partial class EmployeeContextModelSnapshot : ModelSnapshot
+    [Migration("20250310135551_updates5")]
+    partial class updates5
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -42,9 +45,8 @@ namespace EmployeeAttendanceSystem.DataAccess.Migrations
                     b.Property<bool>("IsEarlyDeparture")
                         .HasColumnType("bit");
 
-                    b.Property<string>("IsLate")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<bool>("IsLate")
+                        .HasColumnType("bit");
 
                     b.Property<int?>("WorkingHours")
                         .ValueGeneratedOnAddOrUpdate()

@@ -1,118 +1,130 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\",
+  "WorkspaceRootPath": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4072A986-55F3-476B-B349-E9C7A5B64BD0}|EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\employeeattendancesystem.businesslogic\\services\\attendanceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4072A986-55F3-476B-B349-E9C7A5B64BD0}|EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj|solutionrelative:employeeattendancesystem.businesslogic\\services\\attendanceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Migrations\\20250310141333_updates 6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20250310141333_updates 6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\ef project\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\dataaccess\\context\\attendancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|solutionrelative:dataaccess\\context\\attendancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\ef project\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\dataaccess\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\dataaccess\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|solutionrelative:dataaccess\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\dataaccess\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\dataaccess\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|solutionrelative:dataaccess\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\hrattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\hrattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\ef project\\forms\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\showrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\showrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\showreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\showreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\leaverequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\leaverequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\hrdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\hrdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\employeemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\employeemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\employeeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\employeeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\ef project\\forms\\leaverequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\leaverequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\ef project\\forms\\employeemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\employeemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4072A986-55F3-476B-B349-E9C7A5B64BD0}|EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\employeeattendancesystem.businesslogic\\services\\leaverequestservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4072A986-55F3-476B-B349-E9C7A5B64BD0}|EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj|solutionrelative:employeeattendancesystem.businesslogic\\services\\leaverequestservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\dataaccess\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|solutionrelative:dataaccess\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\dataaccess\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|solutionrelative:dataaccess\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\ef project\\forms\\showreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\showreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\ef project\\forms\\showrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\showrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4072A986-55F3-476B-B349-E9C7A5B64BD0}|EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\employeeattendancesystem.businesslogic\\services\\logsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4072A986-55F3-476B-B349-E9C7A5B64BD0}|EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj|solutionrelative:employeeattendancesystem.businesslogic\\services\\logsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\ef project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\ef project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\ef project\\forms\\hrdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\hrdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Migrations\\20250310135551_updates5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20250310135551_updates5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\ef project\\forms\\hrattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4072A986-55F3-476B-B349-E9C7A5B64BD0}|EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\employeeattendancesystem.businesslogic\\services\\attendanceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4072A986-55F3-476B-B349-E9C7A5B64BD0}|EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj|solutionrelative:employeeattendancesystem.businesslogic\\services\\attendanceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\ef project\\forms\\employeeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\employeeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\ef project\\forms\\hrattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\hrattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\ahmed project\\employeeattendancesystem_desktopapp_entityframework\\ef project\\forms\\employeeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\employeeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\ef project\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\ef project\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\hrattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\hrattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\showrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\showrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\showreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\showreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\leaverequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\leaverequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\hrdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\hrdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\employeemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\employeemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\employeeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\employeeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\ef project\\forms\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\ef project\\forms\\leaverequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\leaverequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\ef project\\forms\\employeemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\employeemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4072A986-55F3-476B-B349-E9C7A5B64BD0}|EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\employeeattendancesystem.businesslogic\\services\\leaverequestservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4072A986-55F3-476B-B349-E9C7A5B64BD0}|EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj|solutionrelative:employeeattendancesystem.businesslogic\\services\\leaverequestservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\dataaccess\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|solutionrelative:dataaccess\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\dataaccess\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F017A64-3D35-471E-BEA3-145B115B2BB1}|DataAccess\\EmployeeAttendanceSystem.DataAccess.csproj|solutionrelative:dataaccess\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\ef project\\forms\\showreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\showreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\ef project\\forms\\showrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\showrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4072A986-55F3-476B-B349-E9C7A5B64BD0}|EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\employeeattendancesystem.businesslogic\\services\\logsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4072A986-55F3-476B-B349-E9C7A5B64BD0}|EmployeeAttendanceSystem.BusinessLogic\\EmployeeAttendanceSystem.BusinessLogic.csproj|solutionrelative:employeeattendancesystem.businesslogic\\services\\logsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|c:\\users\\softlaptop\\desktop\\final project\\attendancesystem_desktopapp_entityframework\\ef project\\forms\\hrdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B322A5D8-C0D4-4021-9BE1-4807FA781F9B}|EF Project\\EmployeeAttendanceSystem.Presentation.csproj|solutionrelative:ef project\\forms\\hrdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,11 +146,50 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250310141333_updates 6.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Migrations\\20250310141333_updates 6.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250310141333_updates 6.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Migrations\\20250310141333_updates 6.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20250310141333_updates 6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:13:33.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250310135551_updates5.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Migrations\\20250310135551_updates5.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250310135551_updates5.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Migrations\\20250310135551_updates5.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20250310135551_updates5.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAYwL8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:55:51.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AttendanceContext.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Context\\AttendanceContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Context\\AttendanceContext.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Context\\AttendanceContext.cs",
+              "RelativeToolTip": "DataAccess\\Context\\AttendanceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:49:01.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LoginForm.cs",
               "RelativeDocumentMoniker": "EF Project\\Forms\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LoginForm.cs",
               "RelativeToolTip": "EF Project\\Forms\\LoginForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,36 +199,96 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Program.cs",
+              "RelativeDocumentMoniker": "EF Project\\Program.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Program.cs",
+              "RelativeToolTip": "EF Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T01:52:26.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\Department.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T23:56:45.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Attendance.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\Attendance.cs",
               "RelativeDocumentMoniker": "DataAccess\\Models\\Attendance.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\Attendance.cs",
               "RelativeToolTip": "DataAccess\\Models\\Attendance.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBsAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T23:22:27.7Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "AttendanceServices.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\Services\\AttendanceServices.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\Services\\AttendanceServices.cs",
               "RelativeDocumentMoniker": "EmployeeAttendanceSystem.BusinessLogic\\Services\\AttendanceServices.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\Services\\AttendanceServices.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\Services\\AttendanceServices.cs",
               "RelativeToolTip": "EmployeeAttendanceSystem.BusinessLogic\\Services\\AttendanceServices.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAIAwwFUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T01:48:54.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "EmployeeAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeAttendance.cs",
+              "RelativeDocumentMoniker": "EF Project\\Forms\\EmployeeAttendance.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeAttendance.cs",
+              "RelativeToolTip": "EF Project\\Forms\\EmployeeAttendance.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T01:47:27.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HRAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRAttendance.cs",
+              "RelativeDocumentMoniker": "EF Project\\Forms\\HRAttendance.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRAttendance.cs",
+              "RelativeToolTip": "EF Project\\Forms\\HRAttendance.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T01:58:53.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AttendanceForm.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\AttendanceForm.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\AttendanceForm.cs",
               "RelativeDocumentMoniker": "EF Project\\Forms\\AttendanceForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\AttendanceForm.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\AttendanceForm.cs",
               "RelativeToolTip": "EF Project\\Forms\\AttendanceForm.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA/wEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,48 +297,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\Department.cs",
-              "RelativeToolTip": "DataAccess\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T23:56:45.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LoginForm.cs",
               "RelativeDocumentMoniker": "EF Project\\Forms\\LoginForm.cs",
               "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LoginForm.cs [Design]",
-              "RelativeToolTip": "EF Project\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T18:55:36.797Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-09T18:55:36.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "AttendanceForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\AttendanceForm.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\AttendanceForm.cs",
               "RelativeDocumentMoniker": "EF Project\\Forms\\AttendanceForm.cs",
               "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\AttendanceForm.cs [Design]",
-              "RelativeToolTip": "EF Project\\Forms\\AttendanceForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\AttendanceForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T18:55:43.394Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-09T18:55:43.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "HRAttendance.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRAttendance.cs",
               "RelativeDocumentMoniker": "EF Project\\Forms\\HRAttendance.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRAttendance.cs [Design]",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRAttendance.cs [Design]",
               "RelativeToolTip": "EF Project\\Forms\\HRAttendance.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T01:58:48.522Z",
@@ -235,83 +331,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "UsersForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\UsersForm.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\UsersForm.cs",
               "RelativeDocumentMoniker": "EF Project\\Forms\\UsersForm.cs",
               "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\UsersForm.cs [Design]",
-              "RelativeToolTip": "EF Project\\Forms\\UsersForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\UsersForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T02:32:28.573Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-10T02:32:28.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "ShowReports.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowReports.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowReports.cs",
               "RelativeDocumentMoniker": "EF Project\\Forms\\ShowReports.cs",
               "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowReports.cs [Design]",
-              "RelativeToolTip": "EF Project\\Forms\\ShowReports.cs [Design]",
+              "RelativeToolTip": "..\\..\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowReports.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T22:59:41.433Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-09T22:59:41.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "LeaveRequestForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LeaveRequestForm.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LeaveRequestForm.cs",
               "RelativeDocumentMoniker": "EF Project\\Forms\\LeaveRequestForm.cs",
               "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LeaveRequestForm.cs [Design]",
-              "RelativeToolTip": "EF Project\\Forms\\LeaveRequestForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LeaveRequestForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T02:01:43.464Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-09T02:01:43.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "ShowRequests.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowRequests.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowRequests.cs",
               "RelativeDocumentMoniker": "EF Project\\Forms\\ShowRequests.cs",
               "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowRequests.cs [Design]",
-              "RelativeToolTip": "EF Project\\Forms\\ShowRequests.cs [Design]",
+              "RelativeToolTip": "..\\..\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowRequests.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T02:01:42.588Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-09T02:01:42.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "HRDashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRDashboard.cs",
               "RelativeDocumentMoniker": "EF Project\\Forms\\HRDashboard.cs",
               "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRDashboard.cs [Design]",
-              "RelativeToolTip": "EF Project\\Forms\\HRDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRDashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T02:01:05.564Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-09T02:01:05.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "EmployeeManagment.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeManagment.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeManagment.cs",
               "RelativeDocumentMoniker": "EF Project\\Forms\\EmployeeManagment.cs",
               "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeManagment.cs [Design]",
-              "RelativeToolTip": "EF Project\\Forms\\EmployeeManagment.cs [Design]",
+              "RelativeToolTip": "..\\..\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeManagment.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T01:14:58.639Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-09T01:14:58.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "EmployeeAttendance.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeAttendance.cs",
               "RelativeDocumentMoniker": "EF Project\\Forms\\EmployeeAttendance.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeAttendance.cs [Design]",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeAttendance.cs [Design]",
               "RelativeToolTip": "EF Project\\Forms\\EmployeeAttendance.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T01:47:14.73Z",
@@ -319,178 +409,122 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "DepartmentsForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\DepartmentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\DepartmentsForm.cs",
               "RelativeDocumentMoniker": "EF Project\\Forms\\DepartmentsForm.cs",
               "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\DepartmentsForm.cs [Design]",
-              "RelativeToolTip": "EF Project\\Forms\\DepartmentsForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\DepartmentsForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T18:55:42.545Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LeaveRequestForm.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LeaveRequestForm.cs",
-              "RelativeDocumentMoniker": "EF Project\\Forms\\LeaveRequestForm.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LeaveRequestForm.cs",
-              "RelativeToolTip": "EF Project\\Forms\\LeaveRequestForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T01:45:31.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EmployeeManagment.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeManagment.cs",
-              "RelativeDocumentMoniker": "EF Project\\Forms\\EmployeeManagment.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeManagment.cs",
-              "RelativeToolTip": "EF Project\\Forms\\EmployeeManagment.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAtwIIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T01:15:06.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LeaveRequestServices.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\Services\\LeaveRequestServices.cs",
-              "RelativeDocumentMoniker": "EmployeeAttendanceSystem.BusinessLogic\\Services\\LeaveRequestServices.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\Services\\LeaveRequestServices.cs",
-              "RelativeToolTip": "EmployeeAttendanceSystem.BusinessLogic\\Services\\LeaveRequestServices.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAwwEwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T00:10:12.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LeaveRequest.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\LeaveRequest.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Models\\LeaveRequest.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\LeaveRequest.cs",
-              "RelativeToolTip": "DataAccess\\Models\\LeaveRequest.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T23:41:33.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\Employee.cs",
-              "RelativeToolTip": "DataAccess\\Models\\Employee.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T23:26:12.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ShowReports.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowReports.cs",
-              "RelativeDocumentMoniker": "EF Project\\Forms\\ShowReports.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowReports.cs",
-              "RelativeToolTip": "EF Project\\Forms\\ShowReports.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwFAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T22:59:36.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T18:55:42.545Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "ShowRequests.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowRequests.cs",
-              "RelativeDocumentMoniker": "EF Project\\Forms\\ShowRequests.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowRequests.cs",
-              "RelativeToolTip": "EF Project\\Forms\\ShowRequests.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwEMAAAAQAAAAAAAAAA==",
+              "Title": "LeaveRequestForm.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LeaveRequestForm.cs",
+              "RelativeDocumentMoniker": "EF Project\\Forms\\LeaveRequestForm.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\LeaveRequestForm.cs",
+              "RelativeToolTip": "EF Project\\Forms\\LeaveRequestForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T00:08:59.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T01:45:31.885Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "LogsServices.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\Services\\LogsServices.cs",
-              "RelativeDocumentMoniker": "EmployeeAttendanceSystem.BusinessLogic\\Services\\LogsServices.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\Services\\LogsServices.cs",
-              "RelativeToolTip": "EmployeeAttendanceSystem.BusinessLogic\\Services\\LogsServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EmployeeManagment.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeManagment.cs",
+              "RelativeDocumentMoniker": "EF Project\\Forms\\EmployeeManagment.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeManagment.cs",
+              "RelativeToolTip": "EF Project\\Forms\\EmployeeManagment.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAtwIIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T00:25:55.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2025-03-09T01:15:06.379Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Program.cs",
-              "RelativeDocumentMoniker": "EF Project\\Program.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Program.cs",
-              "RelativeToolTip": "EF Project\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Title": "LeaveRequestServices.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\Services\\LeaveRequestServices.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceSystem.BusinessLogic\\Services\\LeaveRequestServices.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\Services\\LeaveRequestServices.cs",
+              "RelativeToolTip": "EmployeeAttendanceSystem.BusinessLogic\\Services\\LeaveRequestServices.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwEwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T01:52:26.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "HRAttendance.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRAttendance.cs",
-              "RelativeDocumentMoniker": "EF Project\\Forms\\HRAttendance.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRAttendance.cs",
-              "RelativeToolTip": "EF Project\\Forms\\HRAttendance.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T01:58:53.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T00:10:12.293Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "HRDashboard.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRDashboard.cs",
-              "RelativeDocumentMoniker": "EF Project\\Forms\\HRDashboard.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRDashboard.cs",
-              "RelativeToolTip": "EF Project\\Forms\\HRDashboard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "DataAccess\\Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T02:01:08.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T23:41:33.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\DataAccess\\Models\\Employee.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T23:26:12.689Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "EmployeeAttendance.cs",
-              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeAttendance.cs",
-              "RelativeDocumentMoniker": "EF Project\\Forms\\EmployeeAttendance.cs",
-              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Ahmed Project\\EmployeeAttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\EmployeeAttendance.cs",
-              "RelativeToolTip": "EF Project\\Forms\\EmployeeAttendance.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
+              "Title": "ShowReports.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowReports.cs",
+              "RelativeDocumentMoniker": "EF Project\\Forms\\ShowReports.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowReports.cs",
+              "RelativeToolTip": "EF Project\\Forms\\ShowReports.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwFAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T01:47:27.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T22:59:36.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ShowRequests.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowRequests.cs",
+              "RelativeDocumentMoniker": "EF Project\\Forms\\ShowRequests.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\ShowRequests.cs",
+              "RelativeToolTip": "EF Project\\Forms\\ShowRequests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwEMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:08:59.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LogsServices.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\Services\\LogsServices.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceSystem.BusinessLogic\\Services\\LogsServices.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EmployeeAttendanceSystem.BusinessLogic\\Services\\LogsServices.cs",
+              "RelativeToolTip": "EmployeeAttendanceSystem.BusinessLogic\\Services\\LogsServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:25:55.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HRDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRDashboard.cs",
+              "RelativeDocumentMoniker": "EF Project\\Forms\\HRDashboard.cs",
+              "ToolTip": "C:\\Users\\SoftLaptop\\Desktop\\Final Project\\AttendanceSystem_DesktopAPP_EntityFrameWork\\EF Project\\Forms\\HRDashboard.cs",
+              "RelativeToolTip": "EF Project\\Forms\\HRDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T02:01:08.594Z"
             }
           ]
         }
