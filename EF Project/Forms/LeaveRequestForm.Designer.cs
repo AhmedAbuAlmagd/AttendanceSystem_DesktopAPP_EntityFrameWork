@@ -33,13 +33,13 @@
             requestStartTime_LRF = new DateTimePicker();
             requestEndTime_LRF = new DateTimePicker();
             label3 = new Label();
-            requestReason_LRF = new RichTextBox();
             sqlCommand1 = new Microsoft.Data.SqlClient.SqlCommand();
             btn_SendRequest_LRF = new Button();
             btn_ShowRequests_LRF = new Button();
             btn_back_LRF = new Button();
             dgv_ShowRequests_LRF = new DataGridView();
             btn_cancelRequest_LRF = new Button();
+            combo_leaveReason_LRF = new ComboBox();
             ((System.ComponentModel.ISupportInitialize)dgv_ShowRequests_LRF).BeginInit();
             SuspendLayout();
             // 
@@ -63,18 +63,18 @@
             // 
             // requestStartTime_LRF
             // 
-            requestStartTime_LRF.Format = DateTimePickerFormat.Time;
+            requestStartTime_LRF.Format = DateTimePickerFormat.Short;
             requestStartTime_LRF.Location = new Point(148, 89);
             requestStartTime_LRF.Name = "requestStartTime_LRF";
-            requestStartTime_LRF.Size = new Size(133, 27);
+            requestStartTime_LRF.Size = new Size(151, 27);
             requestStartTime_LRF.TabIndex = 2;
             // 
             // requestEndTime_LRF
             // 
-            requestEndTime_LRF.Format = DateTimePickerFormat.Time;
+            requestEndTime_LRF.Format = DateTimePickerFormat.Short;
             requestEndTime_LRF.Location = new Point(148, 159);
             requestEndTime_LRF.Name = "requestEndTime_LRF";
-            requestEndTime_LRF.Size = new Size(133, 27);
+            requestEndTime_LRF.Size = new Size(151, 27);
             requestEndTime_LRF.TabIndex = 2;
             // 
             // label3
@@ -85,14 +85,6 @@
             label3.Size = new Size(61, 20);
             label3.TabIndex = 3;
             label3.Text = "Reason ";
-            // 
-            // requestReason_LRF
-            // 
-            requestReason_LRF.Location = new Point(148, 226);
-            requestReason_LRF.Name = "requestReason_LRF";
-            requestReason_LRF.Size = new Size(282, 64);
-            requestReason_LRF.TabIndex = 4;
-            requestReason_LRF.Text = "";
             // 
             // sqlCommand1
             // 
@@ -149,17 +141,25 @@
             btn_cancelRequest_LRF.UseVisualStyleBackColor = true;
             btn_cancelRequest_LRF.Click += btn_cancelRequest_LRF_Click;
             // 
+            // combo_leaveReason_LRF
+            // 
+            combo_leaveReason_LRF.FormattingEnabled = true;
+            combo_leaveReason_LRF.Location = new Point(148, 226);
+            combo_leaveReason_LRF.Name = "combo_leaveReason_LRF";
+            combo_leaveReason_LRF.Size = new Size(151, 28);
+            combo_leaveReason_LRF.TabIndex = 8;
+            // 
             // LeaveRequestForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(combo_leaveReason_LRF);
             Controls.Add(btn_cancelRequest_LRF);
             Controls.Add(dgv_ShowRequests_LRF);
             Controls.Add(btn_back_LRF);
             Controls.Add(btn_ShowRequests_LRF);
             Controls.Add(btn_SendRequest_LRF);
-            Controls.Add(requestReason_LRF);
             Controls.Add(label3);
             Controls.Add(requestEndTime_LRF);
             Controls.Add(requestStartTime_LRF);
@@ -167,6 +167,7 @@
             Controls.Add(label1);
             Name = "LeaveRequestForm";
             Text = "Leave Request Form";
+            Load += LeaveRequestForm_Load;
             ((System.ComponentModel.ISupportInitialize)dgv_ShowRequests_LRF).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -179,12 +180,12 @@
         private DateTimePicker requestStartTime_LRF;
         private DateTimePicker requestEndTime_LRF;
         private Label label3;
-        private RichTextBox requestReason_LRF;
         private Microsoft.Data.SqlClient.SqlCommand sqlCommand1;
         private Button btn_SendRequest_LRF;
         private Button btn_ShowRequests_LRF;
         private Button btn_back_LRF;
         private DataGridView dgv_ShowRequests_LRF;
         private Button btn_cancelRequest_LRF;
+        private ComboBox combo_leaveReason_LRF;
     }
 }

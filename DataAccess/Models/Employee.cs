@@ -7,7 +7,8 @@ namespace EmployeeAttendanceSystem.Models
     public enum workSchedule
     {
         fullTime,
-        partTime,
+        partTimeOne,
+        partTimeTwo,
         remote
     }
     public class Employee

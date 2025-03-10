@@ -40,16 +40,16 @@ namespace EF_Project.Forms
 
         private void btn_SendRequest_LRF_Click(object sender, EventArgs e)
         {
-            btn_cancelRequest_LRF.Visible=false;
-            btn_ShowRequests_LRF.Visible=true;
+            btn_cancelRequest_LRF.Visible = false;
+            btn_ShowRequests_LRF.Visible = true;
 
             LeaveRequest leaveRequest = new LeaveRequest()
             {
                 requestDate = DateTime.Now,
                 LeaveStartTime = requestStartTime_LRF.Value,
                 LeaveEndTime = requestEndTime_LRF.Value,
-                LeaveReason = requestReason_LRF.Text,
-                employeeId = employee_id
+                LeaveType = (LeaveType) Enum.Parse(typeof(LeaveType),combo_leaveReason_LRF.SelectedText,true),
+                EmployeeId = employee_id
             };
 
             leaveRequestServices.Add(leaveRequest);
@@ -106,6 +106,11 @@ namespace EF_Project.Forms
             dgv_ShowRequests_LRF.Columns["Employee"].Visible = false;
             btn_cancelRequest_LRF.Visible = false;
             btn_ShowRequests_LRF.Visible = true;
+        }
+
+        private void LeaveRequestForm_Load(object sender, EventArgs e)
+        {
+            combo_leaveReason_LRF.DataSource = Enum.GetValues(typeof(LeaveType));   
         }
     }
 }

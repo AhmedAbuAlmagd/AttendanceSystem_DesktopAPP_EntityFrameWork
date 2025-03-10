@@ -32,7 +32,7 @@ namespace EmployeeAttendanceSystem.BusinessLogic.Services
             return context.LeaveRequests.FirstOrDefault(x => x.id == request_id);
         }
         public List<LeaveRequest> ShowByEmployeeId(int employee_id)
-        {
+        {   
             return context.LeaveRequests.Where(x => x.EmployeeId == employee_id).ToList() ;
         }
 
@@ -56,7 +56,7 @@ namespace EmployeeAttendanceSystem.BusinessLogic.Services
              r.requestDate,
              r.LeaveStartTime,
              r.LeaveEndTime,
-             r.LeaveReason,
+             r.LeaveType,
              r.requestType,
              r.requestStatus
          })
@@ -74,7 +74,7 @@ namespace EmployeeAttendanceSystem.BusinessLogic.Services
                     r.requestDate,
                     r.LeaveStartTime,
                     r.LeaveEndTime,
-                    r.LeaveReason,
+                    r.LeaveType,
                     r.requestType,
                     r.requestStatus
                 })
@@ -98,6 +98,41 @@ namespace EmployeeAttendanceSystem.BusinessLogic.Services
                 context.SaveChanges();
             }
         }
+
+        public void ApproveLeaveRequest(int leaveRequestId)
+        {
+            UpdateRequestStatus(leaveRequestId, LeaverequestStatus.Approved);
+            LeaveRequest request = getById(leaveRequestId);
+            var startDate = request.LeaveStartTime.Date;
+            var endDate = request.LeaveEndTime.Date;
+            var employeeId = request.EmployeeId;
+
+            for (var date = startDate; date <= endDate; date = date.AddDays(1))
+            {
+                var attendance = context.Attendances
+                    .FirstOrDefault(a => a.Employee_id == employeeId && a.Date == DateOnly.FromDateTime(date));
+
+                if (attendance != null)
+                {
+                    attendance.attendanceStatus = AttendanceStatus.LeaveRequest;
+                }
+                else
+                {
+                    attendance = new Attendance
+                    {
+                        Employee_id = employeeId,
+                        checkInTime = null,
+                        checkOutTime = null,
+                        attendanceStatus = AttendanceStatus.LeaveRequest,
+                    };
+                    context.Attendances.Add(attendance);
+                }
+            }
+            context.SaveChanges();
+        }
+
+
+
     }
         
 }

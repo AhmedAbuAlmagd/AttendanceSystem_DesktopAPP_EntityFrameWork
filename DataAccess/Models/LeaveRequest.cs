@@ -23,12 +23,12 @@ namespace EmployeeAttendanceSystem.DataAccess.Models
     public  class LeaveRequest
     {
         public int id { get; set; }
-        public string? LeaveReason { get; set; }
+        public LeaveType LeaveType { get; set; }
         public DateTime requestDate { get; set; }
         public DateTime LeaveStartTime { get; set; }
         public DateTime LeaveEndTime { get; set; }
         [Column(TypeName = "nvarchar(50)")]
-        public LeaverequestStatus requestStatus { get; set; } = LeaverequestStatus.pending;
+        public LeaverequestStatus requestStatus { get; set; } = LeaverequestStatus.Pending;
         public LeaveType requestType { get; set; }
         [ForeignKey("Employee")]
         public int EmployeeId { get; set; }

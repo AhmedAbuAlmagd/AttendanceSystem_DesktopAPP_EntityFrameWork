@@ -61,10 +61,11 @@ namespace EF_Project.Forms
         {
             if (selectedRequestId != -1)
             {
-                LeaveRequestServices.UpdateRequestStatus(selectedRequestId, LeaverequestStatus.Approved);
+                LeaveRequestServices.ApproveLeaveRequest(selectedRequestId);
                 MessageBox.Show("Request Approved Successfully", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                
                 showRefreshRequests();
-
+                
             }
         }
 

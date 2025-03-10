@@ -40,7 +40,7 @@ namespace EF_Project.Forms
 
         private void btn_dailyreport_SRF_Click(object sender, EventArgs e)
         {
-            DateTime date = DateTime.Now;
+            DateOnly date = DateOnly.FromDateTime(DateTime.Now);
             dgv_showreport_SRF.DataSource = attendanceServices.GetDailyAttendance(date);
 
         }
@@ -54,7 +54,7 @@ namespace EF_Project.Forms
             }
             int empId = (int)cb_showemp_SRF.SelectedValue;
             DateTime startDate = DateTime.Now.AddDays(-7);
-            List<Attendance> weeklyReport = attendanceServices.GetAttendanceByEmpIdAndDate(empId, startDate);
+            List<Attendance> weeklyReport = attendanceServices.GetAttendanceByEmpIdAndDate(empId, DateOnly.FromDateTime(startDate));
             dgv_showreport_SRF.DataSource = weeklyReport;
         }
 
@@ -76,9 +76,6 @@ namespace EF_Project.Forms
             int month = (int)cb_month_SRF.SelectedItem;
             List<Attendance> monthlyReport = attendanceServices.GetMonthlyAttendance(empId,year, month);
             dgv_showreport_SRF.DataSource= monthlyReport;
-
-
-
         }
     }
 }

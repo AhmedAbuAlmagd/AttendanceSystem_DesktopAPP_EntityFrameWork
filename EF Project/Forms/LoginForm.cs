@@ -14,13 +14,21 @@ namespace EF_Project.Forms
 {
     public partial class LoginForm : Form
     {
-
+        private readonly AttendanceServices _attendanceServices;
+        private readonly System.Windows.Forms.Timer _timer;
         UserServices usersService;
         public LoginForm()
         {
             InitializeComponent();
             usersService = new UserServices(new AttendanceContext());
 
+            _attendanceServices = new AttendanceServices(new AttendanceContext());
+            _attendanceServices.CreateDailyAttendanceRecords(); 
+
+            _timer = new System.Windows.Forms.Timer();
+            _timer.Interval = 60000; 
+            _timer.Tick += Timer_Tick;
+            _timer.Start();
         }
         int employee_id;
         private void btn_login_LF_Click(object sender, EventArgs e)
@@ -67,6 +75,14 @@ namespace EF_Project.Forms
                 txt_password_LF.UseSystemPasswordChar = false;
             else
                 txt_password_LF.UseSystemPasswordChar = true;
+        }
+
+        private void Timer_Tick(object sender, EventArgs e)
+        {
+            if (DateTime.Now.Hour == 0 && DateTime.Now.Minute == 1) // 12:01 AM
+            {
+                _attendanceServices.CreateDailyAttendanceRecords();
+            }
         }
     }
 }
